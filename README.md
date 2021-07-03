@@ -1,2 +1,2 @@
-# Random-deposition-
+# Random-deposition
 simplest growth model
